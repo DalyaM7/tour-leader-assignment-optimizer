@@ -29,6 +29,3 @@ This case is taken from Harvard Business Publishing Education (https://www.hbsp.
 - Minimize total tour leader fees.
 - Maximize overall customer satisfaction.
 - Ensure compliance with scheduling and eligibility constraints.
-
-## 🔄 Future Scope
-- If successful, the optimization model will be scaled to cover all future tours.
