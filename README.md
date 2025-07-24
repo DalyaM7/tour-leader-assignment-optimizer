@@ -1,4 +1,4 @@
-This case is taken from Harvard Business Publishing Education (https://www.hbsp.harvard.edu/search?aq=%40source%3D%28product_metadata%2C+he_bundles%29&activeTab=products), however, it is not on their website anymore.
+This case, called "EH Holidays", is taken from Harvard Business Publishing Education (https://www.hbsp.harvard.edu/search?aq=%40source%3D%28product_metadata%2C+he_bundles%29&activeTab=products), however, it is not on their website anymore.
 
 # Optimization of Tour Leader Assignments: Problem Summary
 
